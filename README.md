@@ -30,6 +30,8 @@ again if not go to step 8.
 12: Print the sequence if it is in safe state or print not in safe state. 
 
 ## PROGRAM:
+### Developed by : YUVARAJ.S
+### Register Number : 212222240119
 ```c
 #include <stdio.h>
 int main() {
